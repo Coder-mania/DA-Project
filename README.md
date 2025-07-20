@@ -21,6 +21,7 @@ This project focuses on analyzing and predicting product return behavior in an e
 | Jupyter Notebook                                   | Development environment        |
 <br>
 
+
 **🛠 Key Steps**
 
 **1.Data Cleaning**
@@ -49,7 +50,7 @@ This project focuses on analyzing and predicting product return behavior in an e
 - Visualizations:
   - Return risk by country, product, and month
   - Return trends over time
-- Interactive table of high-risk orders with filters 
+- Interactive table of high-risk orders with filters <br><br>
 
 **📊 Deliverables**
 
