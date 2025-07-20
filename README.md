@@ -1,5 +1,5 @@
 # Project (INTERNSHIP)
-**🛒 E-commerce Return Rate Reduction Analysis**<br><br>
+# 🛒 E-commerce Return Rate Reduction Analysis <br><br>
 
 **📌 Overview**
 
@@ -17,34 +17,38 @@ This project focuses on analyzing and predicting product return behavior in an e
 | SQLite                                             | Lightweight SQL querying       |
 | Power BI                                           | Interactive dashboard creation |
 | Jupyter Notebook                                   | Development environment        |
-<br><br>
+<br>
 
 **🛠 Key Steps**
 
-1. Data Cleaning
-Removed canceled and incomplete records
+**1.Data Cleaning**
+- Removed canceled and incomplete records
+- Created derived features: `order_value`, `Month`, `return_flag`
 
-Created features: order_value, Month, return_flag
+**2.Exploratory Data Analysis (EDA)**
+- Visualized return rates by **country**, **product**, and **time**
+- Identified **top-returned items** and seasonal **return trends**
 
-3. Exploratory Data Analysis
-Visualized return rates by country, product, and time
+**3.SQL Analysis (SQLite)**
+- Grouped return behavior by:
+  - Product Category
+  - Month
+  - Country
 
-Identified top-returned items and trends
+**4.Logistic Regression Modeling**
+- Trained a **logistic regression model** to predict return probability
+- Generated a new column: `risk_score` (predicted return risk)
+- Saved model as `model.pkl`
 
-5. SQL Analysis (SQLite)
-Grouped return behavior by category, month, country
-
-6. Logistic Regression Modeling
-Trained a logistic model to predict return probability
-
-Output: risk_score
-
-5. Power BI Dashboard
-KPIs: Total returns, high-risk orders, return rate
-
-Charts: Return risk by country, product, month
-
-Table: High-risk orders with filters <br><br>
+**5.Power BI Dashboard**
+- Created KPIs:
+  - Total returns
+  - High-risk orders
+  - Average return rate
+- Visualizations:
+  - Return risk by **country**, **product**, and **month**
+  - Return trends over time
+- Interactive table of **high-risk orders** with filters and drillthrough
 
 **📊 Deliverables**
 
