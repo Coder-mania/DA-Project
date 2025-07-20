@@ -2,6 +2,7 @@
 **🛒 E-commerce Return Rate Reduction Analysis**<br><br>
 
 **📌 Overview**
+
 This project focuses on analyzing and predicting product return behavior in an e-commerce setting. Using real-world data from the UCI Online Retail dataset, it aims to identify patterns behind high return rates and build a predictive model to assess return risk. The insights are visualized in an interactive Power BI dashboard.<br><br>
 
 **🎯 Objectives**
@@ -15,9 +16,11 @@ This project focuses on analyzing and predicting product return behavior in an e
 | Python (Pandas, scikit-learn, matplotlib, seaborn) | Data analysis and modeling     |
 | SQLite                                             | Lightweight SQL querying       |
 | Power BI                                           | Interactive dashboard creation |
-| Jupyter Notebook                                   | Development environment        |<br><br>
+| Jupyter Notebook                                   | Development environment        |
+<br><br>
 
 **🛠 Key Steps**
+
 1. Data Cleaning
 Removed canceled and incomplete records
 
