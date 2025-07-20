@@ -1,4 +1,4 @@
-# Project (INTERNSHIP)
+# Project (Internship)
 # 🛒 E-commerce Return Rate Reduction Analysis <br><br>
 
 **📌 Overview**
@@ -10,6 +10,8 @@ This project focuses on analyzing and predicting product return behavior in an e
 - Predict probability of return using logistic regression.
 - Identify high-risk products and orders for preemptive action.
 - Build an interactive dashboard for stakeholders.<br><br>
+
+**Tools**
 
 | Tool                                               | Purpose                        |
 | -------------------------------------------------- | ------------------------------ |
@@ -26,8 +28,8 @@ This project focuses on analyzing and predicting product return behavior in an e
 - Created derived features: `order_value`, `Month`, `return_flag`
 
 **2.Exploratory Data Analysis (EDA)**
-- Visualized return rates by **country**, **product**, and **time**
-- Identified **top-returned items** and seasonal **return trends**
+- Visualized return rates by country, product, and time
+- Identified top-returned items and seasonal return trends
 
 **3.SQL Analysis (SQLite)**
 - Grouped return behavior by:
@@ -36,9 +38,8 @@ This project focuses on analyzing and predicting product return behavior in an e
   - Country
 
 **4.Logistic Regression Modeling**
-- Trained a **logistic regression model** to predict return probability
+- Trained a logistic regression model to predict return probability
 - Generated a new column: `risk_score` (predicted return risk)
-- Saved model as `model.pkl`
 
 **5.Power BI Dashboard**
 - Created KPIs:
@@ -46,9 +47,9 @@ This project focuses on analyzing and predicting product return behavior in an e
   - High-risk orders
   - Average return rate
 - Visualizations:
-  - Return risk by **country**, **product**, and **month**
+  - Return risk by country, product, and month
   - Return trends over time
-- Interactive table of **high-risk orders** with filters and drillthrough
+- Interactive table of high-risk orders with filters 
 
 **📊 Deliverables**
 
