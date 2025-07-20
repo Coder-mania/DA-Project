@@ -1,21 +1,21 @@
 # Project (INTERNSHIP)
-**🛒 E-commerce Return Rate Reduction Analysis**<br/>
+**🛒 E-commerce Return Rate Reduction Analysis**<br><br>
 
 **📌 Overview**
-This project focuses on analyzing and predicting product return behavior in an e-commerce setting. Using real-world data from the UCI Online Retail dataset, it aims to identify patterns behind high return rates and build a predictive model to assess return risk. The insights are visualized in an interactive Power BI dashboard.<br/>
+This project focuses on analyzing and predicting product return behavior in an e-commerce setting. Using real-world data from the UCI Online Retail dataset, it aims to identify patterns behind high return rates and build a predictive model to assess return risk. The insights are visualized in an interactive Power BI dashboard.<br><br>
 
 **🎯 Objectives**
 - Analyze return behavior by product, region, and time.
 - Predict probability of return using logistic regression.
 - Identify high-risk products and orders for preemptive action.
-- Build an interactive dashboard for stakeholders.<br/>
+- Build an interactive dashboard for stakeholders.<br><br>
 
 | Tool                                               | Purpose                        |
 | -------------------------------------------------- | ------------------------------ |
 | Python (Pandas, scikit-learn, matplotlib, seaborn) | Data analysis and modeling     |
 | SQLite                                             | Lightweight SQL querying       |
 | Power BI                                           | Interactive dashboard creation |
-| Jupyter Notebook                                   | Development environment        |<br/>
+| Jupyter Notebook                                   | Development environment        |<br><br>
 
 **🛠 Key Steps**
 1. Data Cleaning
@@ -41,7 +41,7 @@ KPIs: Total returns, high-risk orders, return rate
 
 Charts: Return risk by country, product, month
 
-Table: High-risk orders with filters<br/>
+Table: High-risk orders with filters <br><br>
 
 **📊 Deliverables**
 
@@ -49,11 +49,11 @@ Table: High-risk orders with filters<br/>
 
  High-risk predictions 
 
- Interactive dashboard <br/>
+ Interactive dashboard <br><br>
 
 **🏁 Conclusion**
 
-This project demonstrates how predictive modeling and business intelligence can work together to tackle return management in e-commerce. With proactive insight into high-risk orders, companies can reduce return rates, optimize logistics, and improve customer experience. <br/>
+This project demonstrates how predictive modeling and business intelligence can work together to tackle return management in e-commerce. With proactive insight into high-risk orders, companies can reduce return rates, optimize logistics, and improve customer experience. <br><br>
 
 **Acknowledgements**
 
